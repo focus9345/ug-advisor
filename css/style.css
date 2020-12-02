@@ -53,3 +53,34 @@ body > .container {
 .card-deck {
   margin-bottom: 30px;
 }
+
+/* bigger icons */
+.bigger-icon {
+  font-size: 4em;
+}
+
+.card {
+  margin-bottom: 2em;
+}
+td form {
+  margin:0;
+}
+.large-icon {
+  font-size: 4em;
+  margin: 0 0 0.1em;
+}
+.student_name {
+  text-transform: capitalize;
+}
+
+.admin .card {  
+  text-align: center;
+} 
+
+.badge.pill-big {
+  font-size:100%;
+}
+.text-title {
+  text-transform: capitalize;
+}
+

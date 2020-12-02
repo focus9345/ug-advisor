@@ -6,6 +6,7 @@
 <li class="nav-item active">
   <a class="nav-link" href="<?php echo BASE_URL; ?>/admin/">Home <span class="sr-only">(current)</span></a>
 </li>
+<!-- Example How To
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Music
@@ -27,4 +28,7 @@
   </div>
 </li>
 <li class="nav-item"><a class="nav-link" href="<?php echo BASE_URL; ?>/admin/user.php">Users</a></li>
-<li class="nav-item"><a class="nav-link" href="<?php echo BASE_URL; ?>/db/logout.php">Logout</a></li>
+
+<li class="nav-item"><a class="nav-link" href="<?php echo SRC_PATH; ?>/logout.php">Logout</a></li>
+
+-->

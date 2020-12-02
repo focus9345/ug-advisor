@@ -2,8 +2,6 @@
 //======================================================================
 // HEAD INCLUDED ON ALL FILES
 //======================================================================
-  define( "BASE_URL", "/ug-advisor");
-  define("ROOT_PATH", $_SERVER["DOCUMENT_ROOT"] . "/ug-advisor");
 ?>
 
 <!-- Head is consitant for all webpages 
